@@ -1,5 +1,5 @@
 :numbered:
-:author: Ana Paula Oliveira Flor - anapaulasigeduc@gmail.com
+:author: Ana Paula Oliveira Flor - anapaula@uern.br
 :data-uri:
 :icons: font
 :experimental:
@@ -20,18 +20,22 @@
 :preface-title: Prefácio
 :version-label: Versão
 :last-update-label: Última atualização
+:align : center
 
 image::imagens/logo-uern.png[]
 
 = ENGENHARIA DE SOFTWARE = 
-Ana Paula Oliveira Flor - anapaulasigeduc@gmail.com
+
+Ana Paula Oliveira Flor - anapaula@uern.br
+
+image::imagens/foto.png[] 
 
 Este material consiste no cronograma de aulas, bem como, alguns materiais para auxílio do curso de engenharia de software. Para voltar para o início acessar https://anapaulaflor.github.io/
 
 == CRONOGRAMA DE AULA
 
 .cronograma
-image::imagens/conteudos.png[]
+table::imagens/Cronograma_aulas.xlsx[]
 
 
 == MATERIAIS DISPONÍVEIS
