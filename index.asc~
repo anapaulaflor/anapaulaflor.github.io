@@ -35,7 +35,7 @@ Este material consiste no cronograma de aulas, bem como, alguns materiais para a
 == CRONOGRAMA DE AULA
 
 .cronograma
-table::imagens/Cronograma_aulas.xlsx[]
+image::imagens/Cronograma_aulas.png[]
 
 
 == MATERIAIS DISPONÍVEIS
